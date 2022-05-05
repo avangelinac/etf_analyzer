@@ -1,0 +1,10 @@
+  249  git commit -m "commit"
+  250  git push orgin main
+  251  git push orgin main
+  252  git push origin main
+  253  exit
+  254  cd desktop
+  255  git clone https://github.com/avangelinac/etf_analyzer.git
+  256  touch etf_analyzer
+  257  cd etf_analyzer
+  258  history 10 > terminal_history.txt
