@@ -1,7 +1,7 @@
 # etf_analyzer
 Financial database and web application using SQL, Python, and Voila to analyze the performance of a hypothetical FinTech ETF.
 
-**The application is a [here](https://github.com/avangelinac/etf_analyzer) github project.
+**The application is a github project. [here](https://github.com/avangelinac/etf_analyzer)
 
 ---
 ## Installation Instructions
@@ -27,9 +27,9 @@ voila etf_analyzer.ipynb
 
 ---
 ## Examples
-![PYPL CDaily Returns](images/pypl_daily_returns.png)
-![PYPL Cumulative Returns](images/pypl_cumulative_returns.png)
-![ETF Portfolio](images/etf_portfolio_cumulative_returns.png)
+![PYPL Daily Returns](Images/pypl_daily_returns.png)
+![PYPL Cumulative Returns](Images/pypl_cumulative_returns.png)
+![ETF Portfolio](Images/etf_portfolio_cumulative_returns.png)
 
 ---
 ## Contributors
