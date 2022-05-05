@@ -1,3 +1,13 @@
+  239  git add .
+  240  git commit -m "commit"
+  241  git push origin main
+  242  cd desktop
+  243  exit
+  244  cd desktop
+  245  git clone https://github.com/avangelinac/financial_planning_tools.git
+  246  cd financial_planning_tools
+  247  history 10 > terminal_history.txt
+  248  git add .
   249  git commit -m "commit"
   250  git push orgin main
   251  git push orgin main
@@ -8,3 +18,13 @@
   256  touch etf_analyzer
   257  cd etf_analyzer
   258  history 10 > terminal_history.txt
+  259  git add .
+  260  git commit -m "commit"
+  261  git push origin main
+  262  git add .
+  263  git commit -m "commit"
+  264  git push origin main
+  265  exit
+  266  cd desktop
+  267  cd etf_analyzer
+  268  history 30 > terminal_history.txt
